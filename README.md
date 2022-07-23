@@ -1,3 +1,5 @@
 # Git-learning-demo
 
-学习git。hello word!
+小明：提交了一行代码
+
+小王：提交了一行代码
